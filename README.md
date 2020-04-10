@@ -1,5 +1,7 @@
 # mydots
 my dot files
 
-For the .vimrc, just install vim-plug;
-Then do a :PlugInstall.  Very simple clean configuration
+1. For the .vimrc, just install vim-plug;
+	https://github.com/junegunn/vim-plug
+	
+2. Then do a :PlugInstall
