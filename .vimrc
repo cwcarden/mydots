@@ -28,7 +28,7 @@ if &term =~ "xterm"
 endif
 colorscheme deus
 set number
-let g:NERDTreeIndicatorMapCustom = {
+let g:NERDTreeGitStatusIndicatorMapCustom= {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
     \ "Untracked" : "✭",
